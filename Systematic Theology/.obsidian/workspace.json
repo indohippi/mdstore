@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "09d5a58eab8c81d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "486708ea8b3076c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33f0dabd3fa70dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_contributor_resources/2Tim2 Theology Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14cb0f8ba7332259",
+    "type": "split",
+    "children": [
+      {
+        "id": "0078207b84b500df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903f566987344357",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "725ecadcf52ed4b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60024b81445539e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9f0b62b76051c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "59161b7ebb71f659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb075e9f0eeca23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_contributor_resources/2Tim2 Theology Tree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcb7d04ac226c280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_contributor_resources/2Tim2 Theology Tree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47d6ee440f409bd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8fb4251d1b45482",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_contributor_resources/2Tim2 Theology Tree.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33f0dabd3fa70dcd",
+  "lastOpenFiles": [
+    "05_contributor_resources/guide to creating content.md",
+    "05_contributor_resources/2Tim2 Theology Tree.md",
+    "05_contributor_resources/markdown syntax.md",
+    "04_templates/End Node Doctrinal Statement.md",
+    "05_contributor_resources/Example Doctrinal Statement.md",
+    "05_contributor_resources/guide for assessments.md",
+    "Branch7-HisSalvation/Branch Summary.md",
+    "Branch7-HisSalvation/Branch Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode6/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode6/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch6/endnode6",
+    "Branch7-HisSalvation/L2Branch6/endnode5/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode5/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch6/endnode5",
+    "Branch7-HisSalvation/L2Branch6/endnode4/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode4/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch6/endnode4",
+    "Branch7-HisSalvation/L2Branch6/endnode3/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode3/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch6/endnode3",
+    "Branch7-HisSalvation/L2Branch6/endnode2/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode2/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch6/endnode2",
+    "Branch7-HisSalvation/L2Branch6/endnode1/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch6/endnode1/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch6/endnode1",
+    "Branch7-HisSalvation/L2Branch6/Branch Summary.md",
+    "Branch7-HisSalvation/L2Branch6/Branch Assessment.md",
+    "Branch7-HisSalvation/L2Branch6",
+    "Branch7-HisSalvation/L2Branch5/endnode6/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch5/endnode6/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch5/endnode6",
+    "Branch7-HisSalvation/L2Branch5/endnode5/End Node Doctrinal Statement.md",
+    "Branch7-HisSalvation/L2Branch5/endnode5/End Node Assessment.md",
+    "Branch7-HisSalvation/L2Branch5/endnode5",
+    "Branch7-HisSalvation/L2Branch5/endnode4",
+    "06_images/Tree level2.jpg",
+    "06_images/Tree level1 .jpg",
+    "06_images/bloom_affective.png",
+    "06_images/bloom_knowledge.png",
+    "6_images/Pasted image 20240804223253.png",
+    "6_images/Pasted image 20240804223029.png",
+    "06_images/markdown_link.png",
+    "06_images/basic_markdown.png",
+    "06_images/markdown_image.png",
+    "06_images/markdown_headings.png"
+  ]
+}
